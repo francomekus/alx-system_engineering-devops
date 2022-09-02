@@ -1,1 +1,1 @@
-displays current directfory contents in long formart
+4-listmorefiles:current directory files, including hidden files
