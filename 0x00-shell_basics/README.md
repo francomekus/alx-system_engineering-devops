@@ -1,1 +1,1 @@
-script changes the working directory to the user"s home directory
+displays current directfory contents in long formart
