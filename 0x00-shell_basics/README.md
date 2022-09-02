@@ -1,1 +1,1 @@
-1-listit: Displays the contents list of your current directory
+script changes the working directory to the user"s home directory
