@@ -1,1 +1,1 @@
-5-listfilesdigitonly: current directory contents with users and group IDs displayed
+6-firstdirectory: creates a new dir in a specified dir /tmp/
